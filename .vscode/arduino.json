@@ -3,5 +3,5 @@
     "port": "COM3",
     "programmer": "avrisp",
     "output": "../ArduinoOutput",
-    "sketch": "test_blinking.ino"
+    "sketch": "u_Mouse.ino"
 }
